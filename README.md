@@ -20,4 +20,4 @@ app = "{target}"
 
 Greetings! Enjoy your points guys :P
 
-if you want to support me here is my patronite : https://patronite.pl/Mati_patronite
+
