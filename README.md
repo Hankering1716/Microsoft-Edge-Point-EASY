@@ -9,7 +9,7 @@ If you want to get some points from microsoft edge fast, here i share you app th
 you see that i got today 90/90 so i will cant get more pots. You must remember to open this app every day, in future i will show you how to do that app will open for you in Specific hours while you use computer.
 
 
-If my app will don't works, you problalby will have to change some items. Please find EDGE application and open properties.
+If my app will don't works, you probably will have to change some items. Please find EDGE application and open properties.
 
 ![image](https://user-images.githubusercontent.com/116718014/215337570-56bc41b9-234d-46e5-81c4-acf3089bab5d.png)
 
