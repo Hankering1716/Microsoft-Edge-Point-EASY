@@ -17,6 +17,6 @@ browser = webbrowser.get("chrome")
 
 print(len(words))
 
-for i in range(2):
+for i in range(90):
     word = random.choice(words)
     browser.open(f"https://www.bing.com/search?q={word}&cvid=f930075a9e794d9fbedccf25fe597481&aqs=edge.0.69i59l4j0l2j69i60l3.1169j0j1&pglt=41&FORM=ANNTA1&PC=U531")
