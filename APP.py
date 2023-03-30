@@ -20,4 +20,4 @@ print(len(words))
 for i in range(90):
   for i in range(1):
     word = random.choice(random_words(50,5))
-    browser.open(f"https://www.bing.com/search?q={word}&cvid=f930075a9e794d9fbedccf25fe597481&aqs=edge.0.69i59l4j0l2j69i60l3.1169j0j1&pglt=41&FORM=ANNTA1&PC=U531")
+    browser.open(f"https://www.bing.com/search?q={word}")
