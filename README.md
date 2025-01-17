@@ -15,15 +15,15 @@ Here’s an example:
 
 1. You need to be logged into your Microsoft account to earn points.
 
-2. Please note that you can only earn **90 points per day**. It’s not a lot, but if you use this app every day for a year, you will accumulate quite a bit! Additionally, you can complete the daily set offered by Microsoft on their site [Microsoft Rewards](https://rewards.bing.com/).
-
-
+2. Please note that you can only earn **90 points per day**. It’s not a lot, but if you use this app every day for a year, you will accumulate quite a bit! Additionally, you can complete the daily set offered by Microsoft on their site [Microsoft Rewards](https://rewards.bing.com/) and use Microsoft Edge on your Phone which will give you 180. 
 ![image](https://github.com/user-attachments/assets/b3c23fd5-154e-4287-97d1-d2e85f0332b0)
 
 3. If the app doesn’t work as expected, you might need to adjust some settings. Follow these steps:
 
    a. Find the **Microsoft Edge** application on your computer and open its **Properties**.  
-   b. In the **Properties** window, locate the "Target" field.  
+   b. In the **Properties** window, locate the "Target" field.
+   ![image](https://github.com/user-attachments/assets/abd3d3d3-b835-4cbc-a70f-3177c0439fb9)
+
    c. Copy the contents of the "Target" field and update the file path in line 15 in the code as shown below:
 
 ```app = "!!!hereAddYourTarget!!!"```
@@ -34,7 +34,8 @@ However, if your computer or internet is slow, you might need to increase the `t
 
 The app will open new tabs after the process, allowing you to see how many points you’ve earned.  
 **Pro Tip**: It's recommended to clear your browsing history from the last hour in Edge, as this app will flood your history with browsing data, like the one shown below. Don't worry, the app will open a "clear history" tab for you. 😅
-![image](https://github.com/user-attachments/assets/80132b23-b9f3-41df-a921-d3d74fea2987)
+![image](https://github.com/user-attachments/assets/bcb91152-18de-4aed-896a-5a1ae6fb91a2)
+
 
 ---
 
