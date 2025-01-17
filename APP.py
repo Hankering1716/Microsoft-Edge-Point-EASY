@@ -23,8 +23,7 @@ for i in range(31):
         word = random.choice(random_words(50,5))
         browser.open(f"https://www.bing.com/search?q={word}")
       
-time.sleep(10)  # "Adjust this value based on the average time it takes for the browser to
-#    load a search result. Use 5/10 for faster PCs/Internet or 20+ for slower ones."
+time.sleep(7)  # "Adjust this value based on the average time it takes for the browser to
+#load a search result. Use 20 for faster PCs/Internet or 50+ for slower ones."
 os.system("taskkill /im msedge.exe /f")  # Close the browser
-browser.open("edge://settings/clearBrowserData/clear")
 browser.open("https://rewards.bing.com/")
