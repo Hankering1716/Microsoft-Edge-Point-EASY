@@ -30,8 +30,8 @@ Here’s an example:
 ```app = "!!!hereAddYourTarget!!!"```
 
 
-If your PC or internet connection is fast, you can adjust the `time.sleep` property to **10** or **20** seconds. Run the program a few times to determine the optimal timing for you.  
-However, if your computer or internet is slow, you might need to increase the `time.sleep` duration to **30** or **40** seconds, or even longer, if necessary.
+If your PC or internet connection is fast, you can adjust the `time.sleep` property to **5** or **10** seconds. Run the program a few times to determine the optimal timing for you.  
+However, if your computer or internet is slow, you might need to increase the `time.sleep` duration to **20** or or even longer, if necessary.
 
 The app will open new tabs after the process, allowing you to see how many points you’ve earned.  
 **Pro Tip**: It's recommended to clear your browsing history from the last hour in Edge, as this app will flood your history with browsing data, like the one shown below. Don't worry, the app will open a "clear history" tab for you. 😅 <br> <br>
