@@ -16,7 +16,7 @@ Here’s an example:
 1. You need to be logged into your Microsoft account to earn points.
 
 2. Please note that you can only earn **90 points per day**. It’s not a lot, but if you use this app every day for a year, you will accumulate quite a bit! Additionally, you can complete the daily set offered by Microsoft on their site:
-<br>
+
 [Microsoft Rewards](https://rewards.bing.com/).
 ![image](https://github.com/user-attachments/assets/b3c23fd5-154e-4287-97d1-d2e85f0332b0)
 
