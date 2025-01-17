@@ -1,24 +1,23 @@
-# Microsoft-Edge-Point-EASY
-APP that gets points in Microsoft Edge.
+Microsoft-Edge-Point-EASY: An App that Gets Points in Microsoft Edge
 
-Hi guys!
+Hi everyone!
 
-If you want to get some points from microsoft edge fast, here i share you app that will do this for you.. You must remember that you can  get only  90 points per day from this app. 
+If you want to quickly earn points from Microsoft Edge, I’m sharing an app that will do this for you. Please note that you can only earn 90 points per day using this app.
 
 ![image](https://user-images.githubusercontent.com/116718014/215337317-17cfd3c2-d77a-495f-b4e7-8d0fee6ad2cf.png)
 
-you see that i got today 90/90 so i will cant get more points. 
+As you can see, I’ve already earned 90/90 points today, so I can’t earn any more points.
 
-
-If my app will don't works, you probably will have to change some items. Please find EDGE application and open properties.
+If the app doesn’t work, you might need to change some settings. Please find the EDGE application and open its properties.
 
 ![image](https://user-images.githubusercontent.com/116718014/215337570-56bc41b9-234d-46e5-81c4-acf3089bab5d.png)
 
-Here you will have something like "Target", please copy this and change   location of file like here;
-```
-app = "{target}"  
-```
+In the properties window, you will see something like "Target". Please copy this and change the file location as shown below:
 
-Greetings! Enjoy your points guys :P
+python
+app = "{target}"
+Greetings! Enjoy your points, everyone! :P
+
+
 
 
