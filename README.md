@@ -15,14 +15,15 @@ Here’s an example:
 
 1. You need to be logged into your Microsoft account to earn points.
 
-2. Please note that you can only earn **90 points per day**. It’s not a lot, but if you use this app every day for a year, you will accumulate quite a bit! Additionally, you can complete the daily set offered by Microsoft on their site: <br>[Microsoft Rewards](https://rewards.bing.com/).
+2. Please note that you can only earn **90 points per day**. It’s not a lot, but if you use this app every day for a year, you will accumulate quite a bit! Additionally, you can complete the daily set offered by Microsoft on their site:
+<br>
+[Microsoft Rewards](https://rewards.bing.com/).
 ![image](https://github.com/user-attachments/assets/b3c23fd5-154e-4287-97d1-d2e85f0332b0)
 
 3. If the app doesn’t work as expected, you might need to adjust some settings. Follow these steps:
 
    a. Find the **Microsoft Edge** application on your computer and open its **Properties**.  
    b. In the **Properties** window, locate the "Target" field.  
-   ![image](https://github.com/user-attachments/assets/26566fc1-795d-48c5-abdf-eaf62f04957b)  
    c. Copy the contents of the "Target" field and update the file path in line 15 in the code as shown below:
 
 ```app = "!!!hereAddYourTarget!!!"```
