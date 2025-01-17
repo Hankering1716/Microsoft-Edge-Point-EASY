@@ -1,4 +1,4 @@
-Microsoft-Edge-Point-EASY: An App that Gets Points in Microsoft Edge
+EdgePointsCollector: An App that Gets Points in Microsoft Edge
 
 Hi everyone!
 
