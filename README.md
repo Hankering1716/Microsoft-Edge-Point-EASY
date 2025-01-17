@@ -1,23 +1,40 @@
-EdgePointsCollector: An App that Gets Points in Microsoft Edge
+**EdgePointsCollector: An App to Earn Points in Microsoft Edge**  
+_Use your points to redeem cool rewards like RP for League of Legends or online store discounts!_
 
-Hi everyone!
+---
 
-If you want to quickly earn points from Microsoft Edge, I’m sharing an app that will do this for you. Please note that you can only earn 90 points per day using this app.
+**Hello there!**
 
-![image](https://user-images.githubusercontent.com/116718014/215337317-17cfd3c2-d77a-495f-b4e7-8d0fee6ad2cf.png)
+Before using the **EdgePointsCollector** app, it's a good idea to save your work to avoid losing any important data, as the app will close your browser.
 
-As you can see, I’ve already earned 90/90 points today, so I can’t earn any more points.
+If you want to quickly earn points from Microsoft Edge, this app is for you.
 
-If the app doesn’t work, you might need to change some settings. Please find the EDGE application and open its properties.
+Here’s an example:  
 
-![image](https://user-images.githubusercontent.com/116718014/215337570-56bc41b9-234d-46e5-81c4-acf3089bab5d.png)
+**Important**:
 
-In the properties window, you will see something like "Target". Please copy this and change the file location as shown below:
+1. You need to be logged into your Microsoft account to earn points.
 
-python
-app = "{target}"
-Greetings! Enjoy your points, everyone! :P
+2. Please note that you can only earn **90 points per day**. It’s not a lot, but if you use this app every day for a year, you will accumulate quite a bit! Additionally, you can complete the daily set offered by Microsoft on their site: [Microsoft Rewards](https://rewards.bing.com/).
+![image](https://github.com/user-attachments/assets/b3c23fd5-154e-4287-97d1-d2e85f0332b0)
+
+3. If the app doesn’t work as expected, you might need to adjust some settings. Follow these steps:
+
+   a. Find the **Microsoft Edge** application on your computer and open its **Properties**.  
+   b. In the **Properties** window, locate the "Target" field.  
+   ![image](https://github.com/user-attachments/assets/26566fc1-795d-48c5-abdf-eaf62f04957b)  
+   c. Copy the contents of the "Target" field and update the file path in line 15 in the code as shown below:
+
+```app = "!!!hereAddYourTarget!!!"```
 
 
+If your PC or internet connection is fast, you can adjust the `time.sleep` property to **10** or **20** seconds. Run the program a few times to determine the optimal timing for you.  
+However, if your computer or internet is slow, you might need to increase the `time.sleep` duration to **30** or **40** seconds, or even longer, if necessary.
 
+The app will open new tabs after the process, allowing you to see how many points you’ve earned.  
+**Pro Tip**: It's recommended to clear your browsing history from the last hour in Edge, as this app will flood your history with browsing data, like the one shown below. Don't worry, the app will open a "clear history" tab for you. 😅
+![image](https://github.com/user-attachments/assets/80132b23-b9f3-41df-a921-d3d74fea2987)
 
+---
+
+**Enjoy earning points, everyone!** 😄
