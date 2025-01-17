@@ -9,7 +9,6 @@ Before using the **EdgePointsCollector** app, it's a good idea to save your work
 
 If you want to quickly earn points from Microsoft Edge, this app is for you.
 
-Here’s an example:  
 
 **Important**:
 
